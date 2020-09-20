@@ -1,5 +1,7 @@
 # Summary Blog
 
+### Hello, This is Fatima and this is my Lab01b submission. You can view my Markdown webpage using the following [link](https://fati-ma.github.io/reading-notes/)
+
 ### In this blog I will do a summary of the following topics: :smile:
 :one: - [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 :two: - [Markdown on GitHub](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
@@ -7,8 +9,12 @@
 
 
 ### For the first topic **Growth Mindset**
-When someone has a growth mindset they believe that they can continue to learn and become more intelligent with effort.  In contrast, someone who has a fixed mindset believes that they are born with a certain amount of talent and intelligence and that cannot be improved no matter how much effort they put forth.
-***and this is something was said by a person who experienced having a growth mindset:***
+When someone has a growth mindset they believe that they can continue to learn and become more intelligent with effort, believing that your qualities are carved in stone creates an urgency to prove yourself over and over. So, I decided to develop a growth mindset by:
+:heavy_check_mark: 1. Viewing challenges as opportunities.
+:heavy_check_mark: 2. Replacing the word “failing” with the word “learning.”
+:heavy_check_mark: 3. Trying different learning tactics.
+
+***and this is something was said by a person who experienced having a growth mindset that I liked:***
 
 >I’ve been guilty of having a fixed mindset far too often, and I’m working to change that. Things like wisdom and achievement are the products of putting in hard work, not avoiding it. We live in a society where the instant gratification monkey sits on everyone’s shoulder. But the pleasures that result from determination and hard work far outweigh anything that devilish chimp has to offer. The right mindset, like the growth mindset, helps put things in perspective.
 
