@@ -1,6 +1,5 @@
 # Summary Blog
 
-[link](https://fati-ma.github.io/reading-notes/Read02)
 
 ### Hello, This is Fatima and this is my Lab01b submission. You can view my Markdown webpage using the following [link](https://fati-ma.github.io/reading-notes/)
 
