@@ -27,14 +27,22 @@ I also used
 ![Github Markdown](https://github.andre601.com/GitHub-Markdown/assets/img/logo.png)
 
 
+##### Here I made a table of the course contents:
+101 Course | 102 Course
+------------ | -------------
+HTML | Markdown
+CSS | Github
+
+
 ##### So, what I have shown so far are these rules:
 1. Headers
 2. Emphasis
 3. Links
 4. Blocks
 5. Images
-6. highlighting
-7. Lists (Which I'm using now!)
+6. Highlighting
+7. Tables
+8. Lists (Which I'm using now!)
 
 
 
