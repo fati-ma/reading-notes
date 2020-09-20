@@ -4,14 +4,19 @@
 
 ### In this blog I will do a summary of the following topics: :smile:
 :one: - [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
 :two: - [Markdown on GitHub](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
 :three: - [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 
 
 ### For the first topic **Growth Mindset**
 When someone has a growth mindset they believe that they can continue to learn and become more intelligent with effort, believing that your qualities are carved in stone creates an urgency to prove yourself over and over. So, I decided to develop a growth mindset by:
+
 :heavy_check_mark: 1. Viewing challenges as opportunities.
+
 :heavy_check_mark: 2. Replacing the word “failing” with the word “learning.”
+
 :heavy_check_mark: 3. Trying different learning tactics.
 
 ***and this is something was said by a person who experienced having a growth mindset that I liked:***
