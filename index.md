@@ -1,6 +1,6 @@
 # Welcome to my GitHub Pages
 
-### In this blog I will be explaining what I have learned so far about Markdown and how to display my webpage using Jejyll themes.
+### In this blog I will be explaining what I have learned so far about Markdown and how to display my webpage using Jekyll themes.
 
 I also checked these resources provided by the instructor for further information [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
 
@@ -34,7 +34,7 @@ HTML | Markdown
 CSS | Github
 
 
-##### So, what I have shown so far are these rules:
+##### So, what I have shown so far are these rules: :+1:
 1. Headers
 2. Emphasis
 3. Links
@@ -42,7 +42,13 @@ CSS | Github
 5. Images
 6. Highlighting
 7. Tables
-8. Lists (Which I'm using now!)
+8. Emojies
+9. Lists (Which I'm using now!)
+
+#### This is my check list for today:
+- [ ] Revising the lecture and labs
+- [ ] Exploring Github more
+- [x] Practicing Markdown
 
 
 
