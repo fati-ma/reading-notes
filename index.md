@@ -13,8 +13,10 @@ by **Rocky Balboa**
 
 ```markdown
 I used > to block the quote
-I used **This to bold text** and _This to make text italicized_ also ***This to state that this text is important*** 
+I used **This to bold text** and _This to make text italicized_ 
+also ***This to state that this text is important*** 
 and **This to emphasis _certain word_ in the text**
+and ~~This was mistaken text~~
 I also used
 # --> For the title of the webpage
 ### and #### --> For other important headlines other than the title 
