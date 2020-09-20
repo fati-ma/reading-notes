@@ -52,7 +52,6 @@ CSS | Github
 
 
 
-
-
+#### I hope you like it, thanks in advance for your efforts!
 
 
