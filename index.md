@@ -11,10 +11,15 @@ I also checked these resources provided by the instructor for further informatio
 by **Rocky Balboa**
 
 ```markdown
+I used > to block the quote
 I used **This to bold text** and _This to make text italicized_ also ***This to state that this text is important*** and **This to emphasis _certain word_ in the text**
 I also used
 # --> For the title of the webpage
-### and #### --> For other important headlines other than the title
+### and #### --> For other important headlines other than the title 
+```
+
+Here we have the photo Github Markdown logo! 
+![Github Markdown](https://github.andre601.com/GitHub-Markdown/assets/img/logo.png)https://github.andre601.com/GitHub-Markdown/assets/img/logo.png
 
 - Bulleted
 - List
@@ -25,7 +30,7 @@ I also used
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
