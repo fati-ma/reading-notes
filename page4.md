@@ -7,7 +7,7 @@
 ### In this blog I will do a summary of the following topics: :smile:
 :one: - [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-:two: - [Markdown on GitHub]((https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+:two: - [Markdown on GitHub](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 :three: - [ Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 
