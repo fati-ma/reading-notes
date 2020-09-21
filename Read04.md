@@ -10,7 +10,7 @@
 - [x] *Chapter 17: HTML5 Layout*
 - [x] *Chapter 18: Process & Design*
 
-##### Keywords are emphasised.
+##### Note: Keywords are emphasised.
 
 ## Chapter 1: Structure
 
