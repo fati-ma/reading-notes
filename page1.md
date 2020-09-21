@@ -1,6 +1,7 @@
 # Welcome to my GitHub Pages
 
 ### You can view my Markdown page using the following [link](https://fati-ma.github.io/reading-notes/page1).
+### You can go back to the Home page using the following [link](https://fati-ma.github.io/reading-notes).
 
 ### In this blog I will be explaining what I have learned so far about Markdown and how to display my webpage using Jekyll themes. 
 
