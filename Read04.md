@@ -18,7 +18,7 @@
 - To learn HTML you need to know what tags are available for you to use, and what they do.
 
 
-:one: ## Chapter 8: Extra Markup 
+ ## Chapter 8: Extra Markup 
 
 - DOCTYPES tell browsers which version of HTML you are using.
 - You can add comments to your code between the <!-- and --> markers. 
