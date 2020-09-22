@@ -5,8 +5,8 @@
 
 #### In this blog I will give a summary for the chapters 10 and 11 of the book: "HTML & CSS" :books: :
 
- [x] *Chapter 10: Introducing CSS*
- [x] *Chapter 11: Color*
+ - [x] *Chapter 10: Introducing CSS*
+ - [x] *Chapter 11: Color*
 
 ##### Note: Keywords are emphasised.
 
@@ -25,7 +25,9 @@
 - Color not only brings your site to life, but also helps convey the mood and evokes reactions.
 
 - There are three **ways to specify colors** in CSS: 
-   1. RGB values 2. hex codes 3. color names.
+   1. RGB values 
+   2. hex codes 
+   3. color names.
    
 - Color **pickers** can help you find the color you want.
 ![picker](https://i.stack.imgur.com/lmhuZ.png)
@@ -33,6 +35,7 @@
 - It is important to ensure that there is enough **contrast** between any text and the background color.
 
 - CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as **RGBA**.
+
 ![opasity](https://kathep.com/site/assets/files/3075/screen_shot_2017-11-28_at_3_11_42_pm.png)
 
 - CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as **HSLA**.
