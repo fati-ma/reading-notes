@@ -29,7 +29,8 @@
 
 ## for and while loops
 
-#### The example below explains the for loop:
+
+#### The example below explains the `for` loop:
 
 ![for](https://www.w3resource.com/w3r_images/c-for-statement.png)
 
@@ -41,14 +42,15 @@
 **Statement 3** is executed (every time) after the code block has been executed.
 
 
-#### The example below explains the while loop:
+
+#### The example below explains the `while` loop:
 
 ![while](https://i0.wp.com/pandabunnytech.com/wp-content/uploads/2018/12/js-while-loop.png?w=656)
 
 
 This loop will continue to run
-for as long as the condition in
-the parentheses is true. That
+for ***as long as the condition in
+the parentheses is true***. That
 condition is a counter indicating
 that, as long as the variable
 i remains less than 5, the
